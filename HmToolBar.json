@@ -1,6 +1,6 @@
 
 {
-	"design":{"font":"HmToolBar","fontsize":18,"showname":"nameonly"},
+	"design":{"font":"HmToolBar","fontsize":16,"showname":"nameonly"},
 	"tbcmd": {
 		"274":{"name":" ", "color":"black","alt":"M71"},
 		"275":{"name":" ", "color":"black","alt":"M72"},

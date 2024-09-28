@@ -1,0 +1,2 @@
+# hm_toolbar_json
+秀丸のツールバーでjsonを使った指定方法。フォントはTTFontで作成している。

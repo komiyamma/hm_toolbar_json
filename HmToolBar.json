@@ -3,15 +3,15 @@
 	"design":{"font":"HmToolBar","fontsize":18,"showname":"nameonly"},
 	"tbcmd": {
 		"274":{"name":" ", "color":"black","alt":"M71"},
-		"275":{"name":" ", "color":"black","alt":"M71"},
-		"276":{"name":" ", "color":"black","alt":"M71"},
-		"277":{"name":" ", "color":"black","alt":"M71"},
-		"278":{"name":" ", "color":"black","alt":"M71"},
-		"279":{"name":" ", "color":"black","alt":"M71"},
-		"280":{"name":" ", "color":"black","alt":"M71"},
-		"281":{"name":" ", "color":"black","alt":"M71"},
-		"282":{"name":" ", "color":"black","alt":"M71"},
-		"283":{"name":" ", "color":"black","alt":"M71"},
+		"275":{"name":" ", "color":"black","alt":"M72"},
+		"276":{"name":" ", "color":"black","alt":"M73"},
+		"277":{"name":" ", "color":"black","alt":"M74"},
+		"278":{"name":" ", "color":"black","alt":"M75"},
+		"279":{"name":" ", "color":"black","alt":"M76"},
+		"280":{"name":" ", "color":"black","alt":"M77"},
+		"281":{"name":" ", "color":"black","alt":"M78"},
+		"282":{"name":" ", "color":"black","alt":"M79"},
+		"283":{"name":" ", "color":"black","alt":"M80"},
 	},
 	"colors":{
 		"blue":{"light":"#46c","dark":"#7AC0FF"},
@@ -20,4 +20,5 @@
 		"red":"#f00",
 		"orange":"#fc4",
 	}
+	"dummy_list":"",
 }

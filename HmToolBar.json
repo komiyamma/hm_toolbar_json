@@ -15,7 +15,7 @@
 	},
 	"colors":{
 		"blue":{"light":"#46c","dark":"#7AC0FF"},
-		"black":{"light":"#222","dark":"#ddf"},
+		"black":{"light":"#444","dark":"#BBB"},
 		"green":{"light":"#09B28B","dark":"#09B28B"},
 		"red":"#f00",
 		"orange":"#fc4",

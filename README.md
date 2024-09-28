@@ -1,7 +1,13 @@
 # 秀丸用のツールバーのjsonで作ったもの。自分用
 
-基本的なコマンドをわざわざツールバーボタンにするようなことはないため、
-マクロ71番～マクロ80番用。
+- 基本的なコマンドをわざわざツールバーボタンにするようなことはないため、
+- マクロ71番～マクロ80番用。
+- 既存のfontawesomeなどのフォントよりもどちらかというと、独自アイコン的なものを作りたいだろうか
+  ら、  
+  そうなると、TTEditなどを使ってる人以外敷居が高いのでは？
+
+![alt text](./thumbnail.png)
+
 
 // https://help.maruo.co.jp/hidemac/html/110_MacroStatement_endmacro_postcommand.html  
   

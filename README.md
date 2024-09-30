@@ -1,5 +1,7 @@
 # 秀丸用のツールバーのjsonで作ったもの
 
+![HmToolBarJson v1.0.0.5](https://img.shields.io/badge/HmToolBarJson-v1.0.0.5-6479ff.svg)
+
 - オリジナルアイコンのセットを用意しやすいように調整したもの。
 
 ## 動作環境
